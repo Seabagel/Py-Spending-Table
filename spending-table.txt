@@ -1,0 +1,17 @@
+20/05/2017 (May)
+Current Balance : $193.19
+Savings         : $193.19
+Spendable       : $0.00
+Income          : $380.80 ($380.80 + $0.00)
+Total Balance   : $573.99
+Total Savings   : $573.99
+Total Spendable : $0.00
+
+20/05/2017 (May)
+Current Balance : $0.00
+Savings         : $0.00
+Spendable       : $0.00
+Income          : $193.19 ($193.19 + $0.00)
+Total Balance   : $193.19
+Total Savings   : $193.19
+Total Spendable : $0.00
